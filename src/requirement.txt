@@ -1,0 +1,9 @@
+cycler
+kiwisolver
+matplotlib
+numpy
+opencv-python
+pyparsing
+python-dateutil
+six
+mecab-python3
